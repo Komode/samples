@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+
+# Qt
+*.pro.user
+*.pro.user.*
+
+# QtCreator
+*.autosave
